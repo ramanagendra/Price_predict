@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name="DPrediction"
+package_name="DimondPricePrediction"
 
 list_of_files=[
     ".github/workflows/.gitkeep"
